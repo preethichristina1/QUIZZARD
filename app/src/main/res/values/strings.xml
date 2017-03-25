@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">QUIZZARD</string>
+    <string name="choose">CHOOSE THE CATEGORY</string>
+    <string name="button1">  AUTHORS  </string>
+    <string name="button2">CELEBRITIES</string>
+    <string name="button3"> CAPITALS  </string>
+    <string name="button4"> MONUMENTS </string>
+    <string name="button5">   GAMES   </string>
+    <string name="qn1">1)Aurobindo was the author of</string>
+    <string name="a1">Discovery of India</string>
+    <string name="b1">Hindu view of life</string>
+    <string name="c1">Yogashastra</string>
+    <string name="d1">Savitri</string>
+    <string name="qn2">2)\'Alice in wonderland\' the famous TY serial is based on a book</string>
+    <string name="a2">Father Discoste</string>
+    <string name="b2">Thomas Hardy</string>
+    <string name="c2">Charles Dickens</string>
+    <string name="d2">Lewis Caroll</string>
+    <string name="qn3">3)Who is the author of the book \'My Experience with truth\'?</string>
+    <string name="a3">Mahatma Gandhi</string>
+    <string name="b3">Michael Anderson</string>
+    <string name="c3">Winston Churchill</string>
+    <string name="d3">Jarnes Morris</string>
+    <string name="qn4">4)The creator of \'Sherlock Holmes\' was</string>
+    <string name="a4">Arthur Canon Doyle</string>
+    <string name="b4">Ian Fleming</string>
+    <string name="c4">Shakespeare</string>
+    <string name="d4">Dr.Watson</string>
+    <string name="qn5">5)Who is the author of the novel \'Les Misrable\'?</string>
+    <string name="a5">Victor Hugo</string>
+    <string name="b5">ALium tofler</string>
+    <string name="c5">G.Wynne</string>
+    <string name="d5">Fedric</string>
+    <string name="qn6">6)The book \'Gulliver\'s Travels\' was written by</string>
+    <string name="a6">Alexandra Dumas</string>
+    <string name="b6">Charles Lamb</string>
+    <string name="c6">Charles Dickens</string>
+    <string name="d6">Jonathan Swift</string>
+    <string name="qn7">7)Who is the author of \'Tom Sawyer\'?</string>
+    <string name="a7">Leo Tolstoy</string>
+    <string name="b7">Mark Twain</string>
+    <string name="c7">John Ruskin</string>
+    <string name="d7">William Shakespeare</string>
+    <string name="qn8">8)The celebrated novel \'The Godfather\' was authored by</string>
+    <string name="a8">Harold Robbins</string>
+    <string name="b8">John Milton</string>
+    <string name="c8">Victor Hugo</string>
+    <string name="d8">Mario Puzo</string>
+    <string name="qn9">9)Who wrote \'War and Peace\'?</string>
+    <string name="a9">Leo Tolstoy</string>
+    <string name="b9">Mahatma Gandhi</string>
+    <string name="c9">Charles Dickens</string>
+    <string name="d9">Kipling</string>
+    <string name="qn10">10)Who is the author of \'Harry Potter\'?</string>
+    <string name="a10">John Green</string>
+    <string name="b10">Dan Brown</string>
+    <string name="c10">J.K.Rowling</string>
+    <string name="d10">Charles Dickens</string>
+    <string name="check">CHECK</string>
+    <string name="reset">RESET</string>
+
+
+
+
+
+</resources>
